@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Lumen",
+      "hasCanvas": false,
+      "bodyTextLen": 1244,
+      "bodyTextHash": "33fadfc8d810301316df22f81d6de47e8ffe3fd909cbb71ae710420cd3fffc4a",
+      "bodyTextPrefix": "Lumen AI CONFIRMATION FOR DENTAL CLINICS Lumen OPEN 0:00/0:50 OP",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Lumen",
+      "hasCanvas": false,
+      "bodyTextLen": 1204,
+      "bodyTextHash": "f8ee3fad069acf48a23ea910f5ddc8e3e718db9581367f55cf72e6ad7c68e083",
+      "bodyTextPrefix": "Lumen AI CONFIRMATION FOR DENTAL CLINICS Lumen OPEN 0:00/0:50 Lu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
